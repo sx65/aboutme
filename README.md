@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aiden</h1>
-<h3 align="center">Decent luau developer</h3>
+<h3 align="center">Decent developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sx65&label=Profile%20views&color=0e75b6&style=flat" alt="sx65" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **aixdwn@kittenassist.xyz**
 
-- ⚡ Fun fact **I'm Funny**
+- ⚡ Fun fact ANANI YERIM
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

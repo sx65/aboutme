@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Stellar**
+- 🔭 I’m currently working on **Kittenassist v3**
 
-- 📫 How to reach me **aixdwn@kittenassist.xyz**
+- 📫 How to reach me **funfactisop**
 
 - ⚡ Fun fact 
 

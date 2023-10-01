@@ -2,7 +2,7 @@
 >> funfetch
 ```
 
-<img align="left" src="https://cdn.discordapp.com/attachments/941003842152185956/1157874397110095972/99e1e5855cbe3631a9cca9f480cc192f.png?ex=651a3210&is=6518e090&hm=e274aa3c9b308f8586bdbd10302ec78769448adcb43dbd4eb0aca274b72541f3&" width="189"/>
+<img align="left" src="https://cdn.discordapp.com/attachments/941003842152185956/1157874397110095972/99e1e5855cbe3631a9cca9f480cc192f.png?ex=651a3210&is=6518e090&hm=e274aa3c9b308f8586bdbd10302ec78769448adcb43dbd4eb0aca274b72541f3&"/>
 
 ```py
   Name : Funfact

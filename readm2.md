@@ -6,7 +6,7 @@
 
 ```py
   Name : Funfact
-  Skillset : C++, C#, LUA, Node.JS, PHP, HTML & CSS,  
+  Skillset : C++, C, LUA, Node.JS, PHP, HTML & CSS,  
   Discord  : 922507431664291841
   Hobbies  : [
    Valorant HVH,   Yatch Parties,

@@ -14,7 +14,8 @@
    Gambling
   ],
   Projects : [ 
-    Kittenassist , Puppyware, Yun, ValCheats, Fluxus Key bypasser, Stellar, Yuki, Specter, Da Hub, A0X Anticheat, SahinBot, никогда не проигрывай.cc
+    Kittenassist , Puppyware, Yun, ValCheats, Fluxus Key bypasser, 
+    Stellar, Yuki, Specter, Da Hub, A0X Anticheat, SahinBot, никогда не проигрывай.cc
   ]
   
 ```

@@ -1,8 +1,8 @@
 ```bash
->> funfetch
+>> funfactboot
 ```
 
-<img align="left" src="https://cdn.discordapp.com/attachments/941003842152185956/1157874397110095972/99e1e5855cbe3631a9cca9f480cc192f.png?ex=651a3210&is=6518e090&hm=e274aa3c9b308f8586bdbd10302ec78769448adcb43dbd4eb0aca274b72541f3&"/>
+<img align="left" src="https://cdn.discordapp.com/attachments/941003842152185956/1157876310899699812/IMG_5983.jpg?ex=651a33d8&is=6518e258&hm=bea7216c3b51daa3e151940208895615432392953628c19e7aa777ae031e4de4&" width="189"/>
 
 ```py
   Name : Funfact

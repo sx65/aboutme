@@ -1,7 +1,7 @@
 <h1 align="center"></h1>
 <h3 align="center"></h3>
 
-Projects that i owned/deved -> Aurora Hub, Da Hub, Kittenassist.me, Puppyware, Specter.lua, Faded(only silent aim), Yun, Yuki External, Santo.wtf, Stellar, C-Byte 
+Projects that i owned/deved -> Aurora Hub, Da Hub, Kittenassist.me, Puppyware, Specter.lua, Faded(only silent aim), Yun, Yuki External, Santoware, Stellar, C-Byte 
 
 Known as Aiden, Funfact
 
